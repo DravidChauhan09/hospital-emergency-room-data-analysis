@@ -23,7 +23,6 @@ The main goal of this project is to convert raw hospital emergency room data int
 
 ---
 
-![hospital-emergency-room-data-analysis](dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
